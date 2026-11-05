@@ -1,0 +1,19 @@
+# Interface
+streamlit>=1.40
+
+# LangChain (orquestra o pipeline RAG)
+langchain-core>=1.0
+langchain-text-splitters>=1.0
+langchain-chroma>=1.0
+langchain-huggingface>=1.0
+langchain-ollama>=1.0
+langchain-openai>=1.0
+
+# Banco vetorial, embeddings e leitura de PDF
+chromadb>=1.0
+sentence-transformers>=5.2
+pypdf>=5.0
+
+# Utilitários
+python-dotenv>=1.0
+requests>=2.31
